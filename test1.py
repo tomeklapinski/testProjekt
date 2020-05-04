@@ -3,12 +3,14 @@ print('ala ma kota')
 x = 1
 print(x)
 
-
-y=2
+y = 2
 print(y)
 
-z=3
+z = 3
 print(z)
 
-k=4
+k = 4
 print(k)
+
+j = 5
+print(j)
