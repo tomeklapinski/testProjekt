@@ -9,3 +9,6 @@ print(y)
 
 z=3
 print(z)
+
+k=4
+print(k)
